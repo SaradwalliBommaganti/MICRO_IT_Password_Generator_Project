@@ -78,7 +78,11 @@ Generate a password based on user-defined parameters.
 
 ~~~
 
-**Author**
+**Author:-**
+
 Saradwalli Bommaganti
-GitHub: @SaradwalliBommaganti
+
+**GitHub:-** 
+
+@SaradwalliBommaganti
 
